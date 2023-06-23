@@ -7,6 +7,5 @@ en-us(Configure or start the server | Creation Date(23/06/2023{PM 11:28} my addr
 
 ko-kr(사용법) | en-us(Instructions)
 ========================================
-pip install yobi-dps
 
 
